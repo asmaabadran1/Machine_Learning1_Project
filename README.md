@@ -1,5 +1,5 @@
 # Machine_Learning_Project
-# Titanic Survival Prediction
+-Titanic Survival Prediction
 
 This project aims to predict the survival of passengers aboard the Titanic using machine learning models.
 
